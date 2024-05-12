@@ -43,7 +43,6 @@ repita
                 Escreval("Qual o valor unitário?")
                 Leia(estoque[totalProdutos + 1].valorUnitario)
                 totalProdutos <- totalProdutos + 1
-                Escreval("Deseja adiconar mais produtos? Sim/Não")
                 Escreval("Produto adicionado com sucesso!")
            Caso 2
                 encontrado <- falso

@@ -1,5 +1,17 @@
 Algoritmo "EXERCICIO_ESTOQUE_AMASSEI"
 
+//ENUNCIADO DO EXERCÍCIO:
+ //Exercício: Controle de Estoque
+
+//Você foi contratado por uma empresa para desenvolver um programa de controle de estoque. O programa
+//deve permitir ao usuário realizar as seguintes operações:
+//1 - Adicionar um novo produto ao estoque.
+//2 - Atualizar a quantidade em estoque de um produto existente.
+//3 -Visualizar o estoque atual, mostrando o nome, a quantidade e o valor unitário de cada produto.
+//O programa deve utilizar registros para representar cada produto,
+//onde cada registro contém o nome do produto, a quantidade em estoque
+//e o valor unitário do produto.
+
 Tipo produto = registro
      nome: caracter
      quantidade: inteiro
